@@ -63,3 +63,25 @@ body.noodle{
     font-size: 25px;
     margin-left: 800px;
 }
+.redhea{
+    padding: 50px;
+    background-color: rgb(182, 55, 55);
+    font-size: 35px;
+    text-align: center;
+    margin: 20px;
+    border: 5px solid black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.insolo{
+    font-size: 30px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    margin-left: 40px;
+}
+.linkyy{
+    color: black;
+   text-align: right;
+    font-size: 50px;
+}
+.readable{
+    font-size: 20px;
+}
